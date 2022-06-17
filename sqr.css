@@ -1,0 +1,55 @@
+body {
+	background-color: #eee; 
+	background-position: center; 
+    max-width: 1200px;
+	background-size: cover;
+	border: 2px solid #262626;
+	box-shadow: 0px 5px 15px 5px black;
+	font-family: 'Song Myung', serif; 
+	margin: 5%;
+    padding: 0 20px;
+}
+#lresult{
+	color: darkorange;
+}
+#wresult{
+	color: purple;
+}
+small{
+	color: red;
+}
+td {
+	height: 65px;
+	width: 20%;
+	vertical-align: center;
+	border: 1px solid black;
+	font-weight: bold;
+	font-size: larger;
+    text-align: center;
+}
+
+h3 {
+	font-size: 120%;
+}
+
+table {
+	width: 50%;
+	margin: auto;
+}
+
+input{
+    text-align: center;
+	border: red;
+}
+
+input[type=number] {
+	-moz-appearance: textfield;
+
+  }
+
+  input[type=number] {
+	background-color: #eee;
+	width: 100px;
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+  }
